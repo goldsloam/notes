@@ -3,17 +3,17 @@
 flash card heavy
 
 * Memorize:
-** basics phonetics
-** word construction methods
+ * basics phonetics
+ * word construction methods
 
 ## 2. Memorize: Word Tiers
 bulk of the work, flash card heavy, randomized & ordered by frequency
 
-*   500: Beginner
-*  1000: Conversational
-*  4000: Advanced
-* 10000: Fluent
-* 30000: Native
+*   500: Beginner (~1 month)
+*  1000: Conversational (2 months)
+*  4000: Advanced (6 months)
+* 10000: Fluent (1 year)
+* 30000: Native (3 years)
 
 ## 3. Grammar Tiers
 Measured in textbooks, determine this per language.
